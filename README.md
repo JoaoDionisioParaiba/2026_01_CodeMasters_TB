@@ -1,9 +1,9 @@
-Se você for o Hugo (ou o integrante responsável pela Multiplicação), o seu main.c local deve ser configurado para testar especificamente a sua função.  Seguindo a mesma lógica de deixar o trabalho dos outros rapazes comentado para evitar erros de compilação, o seu arquivo fica assim:C#include <stdio.h>
+#include <stdio.h>
 
-// #include "funcao_soma.h"          // Comentado até o Daniel enviar
-// #include "funcao_subtracao.h"     // Comentado até o César enviar
-#include "funcao_multiplicacao.h" // <<< Ativado para o Hugo [cite: 168]
-// #include "funcao_divisao.h"       // Comentado até o Lucas enviar
+// #include "funcao_soma.h"          
+// #include "funcao_subtracao.h"    
+#include "funcao_multiplicacao.h"
+// #include "funcao_divisao.h"       
 
 int main() 
 {
